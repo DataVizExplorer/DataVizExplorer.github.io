@@ -7,7 +7,7 @@
 [A/B Hypothesis Test Analysis](/sample_page)
 <img src="images/project1.jpg?raw=true"/>
 
-
+<!---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
@@ -17,7 +17,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+-->
 
 
 
