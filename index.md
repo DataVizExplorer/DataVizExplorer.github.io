@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[A/B Hypothesis Test Analysis](/sample_page)
+[A/B Hypothesis Test Analysis](/project1_page)
 <img src="images/project1.jpg?raw=true"/>
 
 <!---
