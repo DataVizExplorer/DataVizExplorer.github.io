@@ -4,10 +4,11 @@
 
 ### 1. Test parameters
 To assess the potential impact of the new webpage design, I'll examine the following variables.
-•	Conversion rate
+
+-	Conversion rate
 If the user makes one or more purchases after joining the experiment, it would be considered as conversion. 
 
-•	Amount Spent
+-	Amount Spent
 Average amount spent by users from both group is considered to investigate whether new web design contributes to increase in revenue or not?
 Analysis
 The hypothesis testing A/B and confidence interval calculation will be performed on both variables conversion rate and amount spent. 
