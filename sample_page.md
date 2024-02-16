@@ -1,9 +1,12 @@
-##  A/B Hypothesis Test Analysis
+#  A/B Hypothesis Test Analysis
 
-**Project description:** This report aims to describe in detail the findings of A/B hypothesis test which was designed to compare the two versions of webpage. The new version of webpage has been created to increase awareness about newly introduced food and drink offerings. The objective of this action is to increase revenue. The test involves addition of banner of products in food and drink category at the top of website.
+## Summmary 
+This report aims to describe in detail the findings of A/B hypothesis test which was designed to compare the two versions of webpage. The new version of webpage has been created to increase awareness about newly introduced food and drink offerings. The objective of this action is to increase revenue. The test involves addition of banner of products in food and drink category at the top of website.
+The way control and treatment group will see the webpage is shown below:
+<img src="images/Project1/webpage_summary_1.jpg?raw=true"/>
 
 ### 1. Test parameters
-To assess the potential impact of the new webpage design, I'll examine the following variables.
+To assess the potential impact of the new webpage design, I'll examine the following variables:
 
 -	Conversion rate
 If the user makes one or more purchases after joining the experiment, it would be considered as conversion. 
