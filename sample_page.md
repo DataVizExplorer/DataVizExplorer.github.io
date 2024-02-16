@@ -3,7 +3,7 @@
 ## Summmary 
 This report aims to describe in detail the findings of A/B hypothesis test which was designed to compare the two versions of webpage. The new version of webpage has been created to increase awareness about newly introduced food and drink offerings. The objective of this action is to increase revenue. The test involves addition of banner of products in food and drink category at the top of website.
 The way control and treatment group will see the webpage is shown below:
-<img src="images/Project1/webpage_summary_1.jpg?raw=true"/>
+<img src="images/Project1/webpage_summary_1.jpg?raw=true" width="500" height="600" />
 
 ### 1. Test parameters
 To assess the potential impact of the new webpage design, I'll examine the following variables:
