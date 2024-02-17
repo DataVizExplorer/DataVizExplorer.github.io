@@ -17,8 +17,14 @@ To extract GloBox data, we made an SQL query and subsequently conducted analysis
 -	Gender
 <img src="images/Project1/Total_users_by_gender_4.jpg?raw=true" width="400" height="300" />
 
--	Group
+-	Device
+<img src="images/Project1/Total_users_by_device_5.jpg?raw=true" width="400" height="300" />
+
+- Group
+<img src="images/Project1/Total_users_by_group_6.jpg?raw=true" width="400" height="300" />
+
 -	Converted Users
+<img src="images/Project1/Converted_users_by_group_7.jpg?raw=true" width="400" height="300" />
 
 
 
