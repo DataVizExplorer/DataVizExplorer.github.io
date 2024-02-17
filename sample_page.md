@@ -10,7 +10,8 @@ Users will be randomly assigned to both groups.
 To extract GloBox data, we made an SQL query and subsequently conducted analysis using Google Sheets and Tableau. The query and associated tasks in Google Sheets can be found appended to the conclusion of this document. We examined the following variables:
 - User id
 -	Country
--	Average amount spent.
+-	Average amount spent
+<img src="images/Project1/Data_image_amount_spent_by_gender_2.jpg?raw=true" width="500" height="500" />
 -	Gender
 -	Group
 -	Converted Users
