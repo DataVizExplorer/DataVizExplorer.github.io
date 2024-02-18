@@ -88,16 +88,9 @@ Two sample z-test with pooled proportion is used because in Null hypothesis we c
 <img src="images/Project1/formula_11.jpg" width="350" height="120" />
 </p>
 
-P value = 2*P(Z> |T|) = 0.0001117008208
- Where:
-- H<sub>0</sub>,H<sub>1</sub>=Null and alternative hypothesis 
-- p<sub>1</sub>,p<sub>2</sub>=population proportions
-- p<sub>0</sub>= null value,the value we think the difference in population proportions might be
-- p<sup>^</sup><sub>1</sub>,p<sup>^</sup><sub>2</sub>= sample proportions for samples 1 and 2,respectively
-- p<sup>^ </sup> = the pooled sample proportion
-- T = T statistic
-- n<sub>1</sub>,n<sub>2</sub>=  sample size for samples 1 and 2
-- Z = the standard normal distribution
+<p align = "center" width="100%">
+<img src="images/Project1/formula_details_12.jpg" width="350" height="200" />
+</p>
 
 
 
