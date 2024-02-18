@@ -63,6 +63,7 @@ The hypothesis testing A/B and confidence interval calculation will be performed
 </p>
 The above figure has shown that there is difference in conversion rate between both groups. The difference in bar lengths can be seen. Our analysis aims to determine whether this difference signifies a significant relationship between the new webpage design and Group B.
 
+
 **Hypothesis Test**
 
 Null hypothesis states that there is no difference in conversion rate between both groups. And alternative is that there is difference in conversion rate between both groups. The difference in conversion rate among control and treatment group is not zero.
@@ -92,8 +93,8 @@ P value = 2*P(Z> |T|) = 0.0001117008208
 - H<sub>0</sub>,H<sub>1</sub>=Null and alternative hypothesis 
 - p<sub>1</sub>,p<sub>2</sub>=population proportions
 - p<sub>0</sub>= null value,the value we think the difference in population proportions might be
-- p ̂_1,p ̂_2= sample proportions for samples 1 and 2,respectively
-- p ̂ = the pooled sample proportion
+- p<sup>^</sup><sub>1</sub>,p<sup>^</sup><sub>2</sub>= sample proportions for samples 1 and 2,respectively
+- p<sup>^ </sup> = the pooled sample proportion
 - T = T statistic
 - n<sub>1</sub>,n<sub>2</sub>=  sample size for samples 1 and 2
 - Z = the standard normal distribution
