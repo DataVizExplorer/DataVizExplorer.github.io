@@ -47,7 +47,7 @@ To extract GloBox data, we made an SQL query and subsequently conducted analysis
 </p>
 
 
-### 1. Test parameters
+### Test parameters
 To assess the potential impact of the new webpage design, I'll examine the following variables:
 
 -	Conversion rate
@@ -55,8 +55,12 @@ If the user makes one or more purchases after joining the experiment, it would b
 
 -	Amount Spent
 Average amount spent by users from both group is considered to investigate whether new web design contributes to increase in revenue or not?
-Analysis
+### Analysis
 The hypothesis testing A/B and confidence interval calculation will be performed on both variables conversion rate and amount spent. 
+
+<p align = "center" width="100%">
+<img src="images/Project1/Conversion_rate_group_wise_10.jpg?raw=true" width="400" height="300" />
+</p>
 
 ```javascript
 if (isAwesome){
