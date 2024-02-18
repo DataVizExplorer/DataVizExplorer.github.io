@@ -37,9 +37,11 @@ To extract GloBox data, we made an SQL query and subsequently conducted analysis
 <p align = "center" width="100%">
 <img src="images/Project1/Converted_users_by_group_7.jpg?raw=true" width="400" height="300" />
 </p>
+
 <p align = "center" width="100%">
 <img src="images/Project1/Converted_users_by_device_8.jpg?raw=true" width="400" height="300" />
 </p>
+
 <p align = "center" width="100%">
 <img src="images/Project1/Converted_users_by_gender_9.jpg?raw=true" width="400" height="300" />
 </p>
