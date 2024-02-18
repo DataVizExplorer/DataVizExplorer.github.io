@@ -84,7 +84,7 @@ p<sub>2</sub> = conversion rate for treatment group B
 Two sample z-test with pooled proportion is used because in Null hypothesis we consider difference in conversion rate to be zero. Hence, we have assumed that variance of two populations is same. The pooling is related to the estimation of standard error. In this pooling version of z-test both proportions are averaged and only one is used for calculation of standard error.
 
 <p align = "center" width="100%">
-<img src="images/Project1/formula_11.jpg" width="300" height="150" />
+<img src="images/Project1/formula_11.jpg" width="350" height="120" />
 </p>
 
 P value = 2*P(Z> |T|) = 0.0001117008208
