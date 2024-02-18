@@ -80,7 +80,7 @@ Two sample z-test with pooled proportion is used because in Null hypothesis we c
 Test statistic  T=  ((p ̂_1-p ̂_2 )-p_0)/√(p ̂(1-p ̂)(1/n_1 +1/n_2 ))
 P value = 2*P(Z> |T|) = 0.0001117008208
  Where:
-- H_0,H_1=Null and alternative hypothesis 
+- H<sub>0</sub>,H<sub>1</sub>=Null and alternative hypothesis 
 - p_1,p_2=population proportions
 - p_0= null value,the value we think the difference in population proportions might be
 - p ̂_1,p ̂_2= sample proportions for samples 1 and 2,respectively
