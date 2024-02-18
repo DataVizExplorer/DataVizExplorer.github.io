@@ -61,6 +61,34 @@ The hypothesis testing A/B and confidence interval calculation will be performed
 <p align = "center" width="100%">
 <img src="images/Project1/Conversion_rate_group_wise_10.jpg" width="400" height="300" />
 </p>
+The above figure has shown that there is difference in conversion rate between both groups. The difference in bar lengths can be seen. Our analysis aims to determine whether this difference signifies a significant relationship between the new webpage design and Group B.
+
+** Hypothesis Test **
+
+Null hypothesis states that there is no difference in conversion rate between both groups. And alternative is that there is difference in conversion rate between both groups. The difference in conversion rate among control and treatment group is not zero.
+  H_0: p_2-p_1=p_0  or p_1= p_2
+  H_1 : p_2-p_1<>p_0
+Where:
+p_1 = conversion rate for control group A
+p_2 = conversion rate for treatment group B
+
+** Test details **
+
+<ins> Two sample z test with pooled proportion (Two tail test) </ins>
+Two sample z-test with pooled proportion is used because in Null hypothesis we consider difference in conversion rate to be zero. Hence, we have assumed that variance of two populations is same. The pooling is related to the estimation of standard error. In this pooling version of z-test both proportions are averaged and only one is used for calculation of standard error.
+Test statistic  T=  ((p ̂_1-p ̂_2 )-p_0)/√(p ̂(1-p ̂)(1/n_1 +1/n_2 ))
+P value = 2*P(Z> |T|) = 0.0001117008208
+ Where:
+	- H_0,H_1=Null and alternative hypothesis 
+	- p_1,p_2=population proportions
+	- p_0= null value,the value we think the difference in population proportions might be
+	- p ̂_1,p ̂_2= sample proportions for samples 1 and 2,respectively
+	- p ̂ = the pooled sample proportion
+	- T = T statistic
+	- n_1,n_2=  sample size for samples 1 and 2
+	- Z = the standard normal distribution
+
+
 
 ```javascript
 if (isAwesome){
