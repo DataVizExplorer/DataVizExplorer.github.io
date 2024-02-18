@@ -109,7 +109,7 @@ Confidence interval is used to create a best range in which we are pretty sure t
 
 95% confidence internal of difference in conversion rate between treatment and control group is (0.003486, 0.010654). The point estimate for difference in conversion rate between two groups is 0.0070698, and we are 95% confident that true value of difference is between 0.003486 and 0.010654. The null value for the difference in conversion rate is zero. Because the 95% confidence level doesn’t include zero, we conclude that difference in conversion rate between control and treatment group is significant.
 
-<img src="images/Project1/error_bar_14.jpg" width="800" height="150" />
+<img src="images/Project1/error_bar_14.jpg" width="900" height="150" />
 
 
 
