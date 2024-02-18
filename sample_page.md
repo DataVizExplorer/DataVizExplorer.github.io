@@ -103,7 +103,7 @@ P- value describes a probability not, a certainty. We are confident that convers
 Confidence interval is used to create a best range in which we are pretty sure that the actual value lies in. It is the range of possible values of parameter (point estimate ± margin of error) with certain amount of confidence.  Margin of error considers the uncertainty in estimation because of using a sample to make inference about entire population. 
 95% confidence interval entails that if we take 100 different samples and calculate confidence interval each time than 95 out of 100 confidence intervals will contain the true value of the parameter.
 
-<img src="images/Project1/formulas_result_13.jpg" width="770" height="400" />
+<img src="images/Project1/formulas_result_13.jpg" width="650" height="350" />
 
 **Result**
 
