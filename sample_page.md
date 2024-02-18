@@ -13,6 +13,8 @@ To extract GloBox data, we made an SQL query and subsequently conducted analysis
 -	Average amount spent
 <p align = "center" width="100%">
 <img src="images/Project1/Data_image_amount_spent_by_gender_2.jpg?raw=true" width="500" height="400" />
+</p>
+<p align = "center" width="100%">
 <img src="images/Project1/Data_image_amount_spent_by_device_3.jpg?raw=true" width="500" height="400" />
 </p>
 
