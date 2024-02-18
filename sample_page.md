@@ -90,6 +90,21 @@ Two sample z-test with pooled proportion is used because in Null hypothesis we c
 
 <img src="images/Project1/formula_details_12.jpg" width="770" height="400" />
 
+**Result**
+
+The p value 0.0001 is less than 0.05, so if really no difference exits in conversion rate between two groups, we would see such an extreme result only less than 1% of the time. In other words, probability that we got this result by chance is less than 1 %. 
+
+P- value describes a probability not, a certainty. We are confident that conversion rate for new web design is greater in treatment group. Therefore, we conclude that there is statistically significant difference between conversion rate for two groups. We reject the null hypothesis of no difference in conversion rate between two groups.
+
+**95% Confidence Interval for difference in conversion rate between control and treatment groups**
+
+<ins> Two sample z-interval with unpooled proportions </ins>
+
+Confidence interval is used to create a best range in which we are pretty sure that the actual value lies in. It is the range of possible values of parameter (point estimate ± margin of error) with certain amount of confidence.  Margin of error considers the uncertainty in estimation because of using a sample to make inference about entire population. 
+95% confidence interval entails that if we take 100 different samples and calculate confidence interval each time than 95 out of 100 confidence intervals will contain the true value of the parameter.
+
+
+
 
 
 
