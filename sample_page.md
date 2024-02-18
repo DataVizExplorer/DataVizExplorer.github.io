@@ -11,8 +11,10 @@ To extract GloBox data, we made an SQL query and subsequently conducted analysis
 - User id
 -	Country
 -	Average amount spent
+<p align = "center" width="100%">
 <img src="images/Project1/Data_image_amount_spent_by_gender_2.jpg?raw=true" width="500" height="400" />
 <img src="images/Project1/Data_image_amount_spent_by_device_3.jpg?raw=true" width="500" height="400" />
+</p>
 
 -	Gender
 <p align = "center" width="100%">
@@ -20,14 +22,19 @@ To extract GloBox data, we made an SQL query and subsequently conducted analysis
 </p>
 
 -	Device
+<p align = "center" width="100%">
 <img src="images/Project1/Total_users_by_device_5.jpg?raw=true" width="400" height="300" />
+</p>
 
 - Group
+<p align = "center" width="100%">
 <img src="images/Project1/Total_users_by_group_6.jpg?raw=true" width="400" height="300" />
+</p>
 
 -	Converted Users
+<p align = "center" width="100%">
 <img src="images/Project1/Converted_users_by_group_7.jpg?raw=true" width="400" height="300" />
-
+</p>
 
 
 ### 1. Test parameters
