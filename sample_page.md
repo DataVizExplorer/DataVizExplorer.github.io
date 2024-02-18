@@ -59,7 +59,7 @@ Average amount spent by users from both group is considered to investigate wheth
 The hypothesis testing A/B and confidence interval calculation will be performed on both variables conversion rate and amount spent. 
 
 <p align = "center" width="100%">
-<img src="images/Project1/Conversion_rate_group_wise_10.jpg?raw=true" width="400" height="300" />
+<img src="images/Project1/Conversion_rate_group_wise_10.jpg" width="400" height="300" />
 </p>
 
 ```javascript
