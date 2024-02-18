@@ -77,12 +77,12 @@ p_2 = conversion rate for treatment group B
 <ins> Two sample z test with pooled proportion (Two tail test) </ins>
 
 Two sample z-test with pooled proportion is used because in Null hypothesis we consider difference in conversion rate to be zero. Hence, we have assumed that variance of two populations is same. The pooling is related to the estimation of standard error. In this pooling version of z-test both proportions are averaged and only one is used for calculation of standard error.
-Test statistic  T=  ((p ̂_1-p ̂_2 )-p_0)/√(p ̂(1-p ̂)(1/n_1 +1/n_2 ))
+Test statistic  T=  ((p ̂_1-p ̂_2 )-p<sub>0</sub>)/√(p ̂(1-p ̂)(1/n<sub>1</sub> +1/n_2 ))
 P value = 2*P(Z> |T|) = 0.0001117008208
  Where:
 - H<sub>0</sub>,H<sub>1</sub>=Null and alternative hypothesis 
-- p_1,p_2=population proportions
-- p_0= null value,the value we think the difference in population proportions might be
+- p<sub>1</sub>,p_2=population proportions
+- p<sub>0</sub>= null value,the value we think the difference in population proportions might be
 - p ̂_1,p ̂_2= sample proportions for samples 1 and 2,respectively
 - p ̂ = the pooled sample proportion
 - T = T statistic
