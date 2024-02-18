@@ -88,9 +88,8 @@ Two sample z-test with pooled proportion is used because in Null hypothesis we c
 <img src="images/Project1/formula_11.jpg" width="350" height="120" />
 </p>
 
-<p align = "center" width="100%">
-<img src="images/Project1/formula_details_12.jpg" width="350" height="200" />
-</p>
+<img src="images/Project1/formula_details_12.jpg" width="500" height="400" />
+
 
 
 
