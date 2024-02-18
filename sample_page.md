@@ -66,11 +66,11 @@ The above figure has shown that there is difference in conversion rate between b
 **Hypothesis Test**
 
 Null hypothesis states that there is no difference in conversion rate between both groups. And alternative is that there is difference in conversion rate between both groups. The difference in conversion rate among control and treatment group is not zero.
-  H_0: p_2-p_1=p_0  or p_1= p_2
-  H_1 : p_2-p_1<>p_0
+  H<sub>0</sub>: p<sub>2</sub>-p<sub>1</sub>=p<sub>0</sub>  or p<sub>1</sub>= p<sub>2</sub>
+  H<sub>1</sub> : p<sub>2</sub>-p<sub>1</sub><>p<sub>0</sub>
 Where:
-p_1 = conversion rate for control group A
-p_2 = conversion rate for treatment group B
+p<sub>1</sub> = conversion rate for control group A
+p<sub>2</sub> = conversion rate for treatment group B
 
 **Test details**
 
@@ -81,12 +81,12 @@ Test statistic  T=  ((p ̂_1-p ̂_2 )-p<sub>0</sub>)/√(p ̂(1-p ̂)(1/n<sub>1<
 P value = 2*P(Z> |T|) = 0.0001117008208
  Where:
 - H<sub>0</sub>,H<sub>1</sub>=Null and alternative hypothesis 
-- p<sub>1</sub>,p_2=population proportions
+- p<sub>1</sub>,p<sub>2</sub>=population proportions
 - p<sub>0</sub>= null value,the value we think the difference in population proportions might be
 - p ̂_1,p ̂_2= sample proportions for samples 1 and 2,respectively
 - p ̂ = the pooled sample proportion
 - T = T statistic
-- n_1,n_2=  sample size for samples 1 and 2
+- n<sub>1</sub>,n<sub>2</sub>=  sample size for samples 1 and 2
 - Z = the standard normal distribution
 
 
