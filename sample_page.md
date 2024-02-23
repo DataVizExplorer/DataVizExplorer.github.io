@@ -119,7 +119,9 @@ Confidence interval is used to create a best range in which we are pretty sure t
 </p>
 
 The depicted figure indicates a minimal variance in the average amount spent by both groups. We need to check if this difference is statistically significant.
+
 <ins>Two sample t-test with unpooled variance</ins>
+
 When it is not possible to make assumption of equal variances, we consider separate or unpooled variances. We still have following assumptions.
 - The populations are independent.
 - Each population is either normal or sample size is large.
