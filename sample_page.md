@@ -130,6 +130,16 @@ The null hypothesis is that there is no difference in the average amount spent p
 
 <img src="images/Project1/formula_16.jpg" width="650" height="550" />
 
+**Result**
+The considered level of significance is 5%. Which means that there is 95% probability that results found in this experiment are the result of true difference between control and treatment groups. The p-value we got is 0.9438560437. The p-value is not less than 0.05. Hence, we conclude that the difference in average amount spent between two group wasn’t significantly different. We cannot reject null hypothesis.
+
+**95% Confidence Interval for difference in the average amount spent per users between treatment and Control.**
+
+<img src="images/Project1/formula_17.jpg" width="650" height="550" />
+
+<img src="images/Project1/confidence_intervals_18.jpg" width="650" height="550" />
+
+
 
 
 
