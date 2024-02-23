@@ -128,7 +128,7 @@ When it is not possible to make assumption of equal variances, we consider separ
 
 The null hypothesis is that there is no difference in the average amount spent per user between two groups. While the alternate hypothesis is that there is a difference in average amount spent per user between control and treatment groups. 
 
-<img src="images/Project1/formula_16.jpg" width="650" height="450" />
+<img src="images/Project1/formula_16.jpg" width="650" height="550" />
 
 
 
