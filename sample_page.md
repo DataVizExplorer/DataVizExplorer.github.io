@@ -115,8 +115,16 @@ Confidence interval is used to create a best range in which we are pretty sure t
 
 - #### Amount Spent
 <p align = "center" width="100%">
-<img src="images/Project1/Average_amount_spent_15.jpg" width="650" height="400" />
+<img src="images/Project1/Average_amount_spent_15.jpg" width="550" height="400" />
 </p>
+
+The depicted figure indicates a minimal variance in the average amount spent by both groups. We need to check if this difference is statistically significant.
+<ins>Two sample t-test with unpooled variance</ins>
+When it is not possible to make assumption of equal variances, we consider separate or unpooled variances. We still have following assumptions.
+- The populations are independent.
+- Each population is either normal or sample size is large.
+The null hypothesis is that there is no difference in the average amount spent per user between two groups. While the alternate hypothesis is that there is a difference in average amount spent per user between control and treatment groups. 
+
 
 
 
