@@ -56,7 +56,9 @@ If the user makes one or more purchases after joining the experiment, it would b
 -	Amount Spent
 Average amount spent by users from both group is considered to investigate whether new web design contributes to increase in revenue or not?
 ### Analysis
-The hypothesis testing A/B and confidence interval calculation will be performed on both variables conversion rate and amount spent. 
+The hypothesis testing A/B and confidence interval calculation will be performed on both variables conversion rate and amount spent.
+
+- 1. #### Conversion rate 
 
 <p align = "center" width="100%">
 <img src="images/Project1/Conversion_rate_group_wise_10.jpg" width="400" height="300" />
@@ -110,6 +112,8 @@ Confidence interval is used to create a best range in which we are pretty sure t
 95% confidence internal of difference in conversion rate between treatment and control group is (0.003486, 0.010654). The point estimate for difference in conversion rate between two groups is 0.0070698, and we are 95% confident that true value of difference is between 0.003486 and 0.010654. The null value for the difference in conversion rate is zero. Because the 95% confidence level doesn’t include zero, we conclude that difference in conversion rate between control and treatment group is significant.
 
 <img src="images/Project1/error_bar_14.jpg" width="1000" height="150" />
+
+
 
 
 
