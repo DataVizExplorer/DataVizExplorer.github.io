@@ -113,7 +113,10 @@ Confidence interval is used to create a best range in which we are pretty sure t
 
 <img src="images/Project1/error_bar_14.jpg" width="1000" height="150" />
 
-
+- #### Amount Spent
+<p align = "center" width="100%">
+<img src="images/Project1/Average_amount_spent_15.jpg" width="650" height="400" />
+</p>
 
 
 
