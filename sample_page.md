@@ -137,7 +137,7 @@ The considered level of significance is 5%. Which means that there is 95% probab
 
 <img src="images/Project1/formula_17.jpg" width="650" height="550" />
 
-<img src="images/Project1/confidence_intervals_18.jpg" width="650" height="550" />
+<img src="images/Project1/confidence_intervals_18.jpg" width="850" height="200" />
 
 
 
