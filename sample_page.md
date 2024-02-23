@@ -139,7 +139,15 @@ The considered level of significance is 5%. Which means that there is 95% probab
 
 <img src="images/Project1/confidence_intervals_18.jpg" width="1000" height="200" />
 
+**Result**
 
+95% confidence interval for difference in average amount spent per user in our data turned out to be (-0.4386612802, 0.4713582361). The null value for the difference in means is zero. Our confidence interval range include zero that’s we conclude that the difference in average amount per user is not significant.
+
+### Novelty effect
+
+It is the common issue when dealing with A/B hypothesis testing. Even if the feature isn't objectively superior, users might engage out of curiosity. Consequently, during the initial launch period, user response could be elevated simply due to novelty. This phenomenon is termed the "Novelty Effect."
+To investigate whether the change in conversion rate and average amount spent between treatment and control also face this issue, we have made another query to extract data with dates included in it.
+The following graphical illustration will elaborate that the difference in conversion rate is still persistent till the end. The graphs have shown that the differences in conversion rate and average amount spent are not different in the timeline of 14 days. So, there are minimal or no novelty effects.
 
 
 
