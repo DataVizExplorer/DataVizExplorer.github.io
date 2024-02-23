@@ -149,6 +149,11 @@ It is the common issue when dealing with A/B hypothesis testing. Even if the fea
 To investigate whether the change in conversion rate and average amount spent between treatment and control also face this issue, we have made another query to extract data with dates included in it.
 The following graphical illustration will elaborate that the difference in conversion rate is still persistent till the end. The graphs have shown that the differences in conversion rate and average amount spent are not different in the timeline of 14 days. So, there are minimal or no novelty effects.
 
+<p align = "center" width="100%">
+<img src="images/Project1/novelty_effect_cr_19.jpg" width="550" height="400" />
+</p>
+
+
 
 
 
