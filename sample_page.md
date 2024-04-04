@@ -157,6 +157,10 @@ The following graphical illustration will elaborate that the difference in conve
 <img src="images/Project1/Novelty_effect_Average_amount_spent.jpg" width="650" height="400" />
 </p>
 
+### Power Analysis
+
+Power analysis helps determine the sample size needed for accurate results. When we rely on just one measure—like differences in conversion rate or average user spending—the chances of our estimate being way off are quite high, making it statistically insignificant. However, using multiple observations to estimate the parameter reduces the impact of extreme measures, bringing us closer to the true parameter. This increases our chances of correctly rejecting the null hypothesis. Larger sample sizes enhance test power. These principles, based on the Central Limit Theorem, are applicable across distributions.
+
 
 
 
