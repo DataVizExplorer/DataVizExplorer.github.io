@@ -153,6 +153,10 @@ The following graphical illustration will elaborate that the difference in conve
 <img src="images/Project1/novelty_effect_cr_19.jpg" width="550" height="400" />
 </p>
 
+<p align = "center" width="100%">
+<img src="images/Project1/Novelty_effect_Average_amount_spent.jpg" width="550" height="400" />
+</p>
+
 
 
 
