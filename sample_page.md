@@ -160,6 +160,13 @@ The following graphical illustration will elaborate that the difference in conve
 ### Power Analysis
 
 Power analysis helps determine the sample size needed for accurate results. When we rely on just one measure—like differences in conversion rate or average user spending—the chances of our estimate being way off are quite high, making it statistically insignificant. However, using multiple observations to estimate the parameter reduces the impact of extreme measures, bringing us closer to the true parameter. This increases our chances of correctly rejecting the null hypothesis. Larger sample sizes enhance test power. These principles, based on the Central Limit Theorem, are applicable across distributions.
+1.	Conversion Rate
+Let’s assume we want commonly used power value of 0.8. That means we want to have 80% probability that we will correctly reject the null hypothesis.
+Threshold for significance will be α = 0.05. 
+We want to have 10 percent of difference in conversion rate between treatment and control group. With these parameters the total sample size should be 77K with 38.5k users in each group.
+2.	Amount Spent
+Suppose we aim for a 10% difference in the mean of both groups. With a pooled standard deviation of 25.94, the study would need a sample size of 93,008 for each group. In simpler terms, by randomly selecting 93,008 users for each group and observing a 0.337 (10%) difference in mean between the two, there's an 80% chance of confirming that the means of the two groups are different.
+
 
 
 
