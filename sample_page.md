@@ -150,11 +150,11 @@ To investigate whether the change in conversion rate and average amount spent be
 The following graphical illustration will elaborate that the difference in conversion rate is still persistent till the end. The graphs have shown that the differences in conversion rate and average amount spent are not different in the timeline of 14 days. So, there are minimal or no novelty effects.
 
 <p align = "center" width="100%">
-<img src="images/Project1/novelty_effect_cr_19.jpg" width="550" height="400" />
+<img src="images/Project1/novelty_effect_cr_19.jpg" width="650" height="400" />
 </p>
 
 <p align = "center" width="100%">
-<img src="images/Project1/Novelty_effect_Average_amount_spent.jpg" width="600" height="400" />
+<img src="images/Project1/Novelty_effect_Average_amount_spent.jpg" width="650" height="400" />
 </p>
 
 
