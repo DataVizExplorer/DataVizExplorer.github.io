@@ -167,6 +167,19 @@ We want to have 10 percent of difference in conversion rate between treatment an
 2.	Amount Spent
 Suppose we aim for a 10% difference in the mean of both groups. With a pooled standard deviation of 25.94, the study would need a sample size of 93,008 for each group. In simpler terms, by randomly selecting 93,008 users for each group and observing a 0.337 (10%) difference in mean between the two, there's an 80% chance of confirming that the means of the two groups are different.
 
+### Recommendations
+
+Recommendation: Launch the new webpage design
+Justification:
+Statistical Significance: The A/B test has demonstrated a noteworthy and statistically significant increase in  the conversion rate and increase in the average amount spent.
+Positive Impact: The observed enhancements in these key performance metrics strongly indicate that launching the new homepage will yield higher revenue and foster an improved user experience.
+Low Implementation Cost: The incorporation of the banner feature is expected to be cost-effective, rendering it a practical choice.
+Balanced Improvement: The new homepage simultaneously enhances the conversion rate and the average amount spent, ensuring a well-rounded approach that benefits both user engagement and revenue generation.
+By moving forward with the experiment, GloBox can anticipate favourable outcomes in terms of revenue and user engagement, affirming its value as a prudent decision.
+
+
+
+
 
 
 
